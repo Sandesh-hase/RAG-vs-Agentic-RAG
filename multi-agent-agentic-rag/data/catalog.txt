@@ -1,0 +1,31 @@
+product_id	product_name	description	price
+101	Wireless Mouse	Ergonomic wireless mouse with 2.4GHz USB receiver	19.99
+102	Gaming Keyboard	Mechanical keyboard with RGB backlight	59.99
+103	Noise Cancelling Headphones	Bluetooth over-ear headphones with noise cancellation	129.99
+104	4K Monitor	27-inch 4K UHD display with HDMI and DisplayPort	299.99
+105	Laptop Stand	Adjustable aluminum laptop stand for desks	39.99
+106	USB-C Hub	"Multiport adapter with HDMI, USB 3.0, and SD card reader"	49.99
+107	Portable SSD	1TB USB-C portable solid state drive	149.99
+108	Webcam	1080p HD webcam with built-in microphone	79.99
+109	Smartphone Stand	Adjustable desk stand for smartphones	15.99
+110	Bluetooth Speaker	Portable waterproof Bluetooth speaker	89.99
+111	Wireless Charger	Fast charging pad for smartphones	29.99
+112	External Hard Drive	2TB USB 3.0 external hard drive	89.99
+113	Mechanical Pencil	Set of mechanical pencils with refill leads	9.99
+114	Office Chair	Ergonomic office chair with lumbar support	199.99
+115	Desk Lamp	LED desk lamp with adjustable brightness	34.99
+116	Smartwatch	Fitness tracking smartwatch with heart rate monitor	249.99
+117	Noise Reduction Earplugs	Reusable earplugs for sleeping and studying	12.99
+118	Wireless Earbuds	True wireless earbuds with charging case	99.99
+119	Tablet	10-inch Android tablet with 64GB storage	199.99
+120	Smart TV	50-inch 4K UHD Smart TV with streaming apps	449.99
+121	Drone	Quadcopter drone with 4K camera and GPS	599.99
+122	Action Camera	Waterproof action camera with 4K video	129.99
+123	E-Reader	E-ink e-reader with adjustable backlight	139.99
+124	Gaming Console	Next-gen gaming console with wireless controller	499.99
+125	VR Headset	Virtual reality headset with motion controllers	399.99
+126	Microwave Oven	900W microwave oven with digital controls	129.99
+127	Air Fryer	5L digital air fryer with temperature control	149.99
+128	Coffee Maker	12-cup programmable coffee maker	89.99
+129	Blender	High-speed blender with 5 presets	99.99
+130	Smart Refrigerator	Double-door smart refrigerator with WiFi	1199.99

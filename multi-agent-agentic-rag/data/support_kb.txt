@@ -1,0 +1,26 @@
+faq_id	question	answer
+1	How do I return a product?	You can return a product within 30 days using the returns portal in your account.
+2	What is the warranty on electronics?	Most electronics have a 1-year manufacturer warranty. Please check the product page.
+3	How can I track my order?	You can track your order from the Orders section in your account dashboard.
+4	Do you ship internationally?	"Yes, we ship to over 50 countries worldwide. Shipping charges may vary."
+5	What payment methods are accepted?	"We accept credit cards, debit cards, PayPal, and gift vouchers."
+6	How do I cancel an order?	You can cancel an order within 24 hours before it ships by visiting your Orders page.
+7	What if my product is damaged?	"If your product arrives damaged, please contact support within 48 hours for a replacement."
+8	Do you offer gift wrapping?	"Yes, gift wrapping is available for a small additional fee during checkout."
+9	Can I change my delivery address?	You can change your delivery address before the order ships from your account settings.
+10	How do I redeem a gift voucher?	Enter your gift voucher code at checkout to redeem the balance.
+11	What are your customer support hours?	Our support team is available 24/7 via chat and email.
+12	Do you offer student discounts?	"Yes, students can register with a valid ID for a 10% discount."
+13	What courier services do you use?	"We partner with FedEx, UPS, and DHL for domestic and international deliveries."
+14	Can I pre-order products?	"Yes, select upcoming products are available for pre-order on our website."
+15	Do you offer bulk discounts?	"Yes, bulk purchases may qualify for discounts. Please contact sales."
+16	Is my personal information secure?	"Yes, we use advanced encryption and never share your personal details without consent."
+17	How do I contact customer support?	"You can contact us via live chat, email, or phone."
+18	Do you provide installation services?	"Yes, installation is available for select appliances at checkout."
+19	Can I subscribe for restock alerts?	"Yes, you can subscribe on the product page to get notified when it is back in stock."
+20	Do you charge for membership?	"No, basic membership is free. Premium plans with extra benefits are optional."
+21	How do I update my account details?	"Go to your profile settings to update your email, phone number, or password."
+22	Do you provide express delivery?	"Yes, express delivery is available for an extra charge at checkout."
+23	How do I get an invoice for my order?	Invoices are automatically generated and can be downloaded from your account.
+24	Do you provide extended warranty?	"Yes, extended warranty plans are available for select electronics."
+25	Can I return used products?	"No, only unused products in original condition are eligible for return."
